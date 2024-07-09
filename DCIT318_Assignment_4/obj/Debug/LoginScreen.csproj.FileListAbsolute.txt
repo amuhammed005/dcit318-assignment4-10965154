@@ -1,0 +1,30 @@
+C:\Users\GALLY sismondi\source\repos\DCIT318_Assignment_4\DCIT318_Assignment_4\bin\Debug\DCIT318_Assignment_4.exe.config
+C:\Users\GALLY sismondi\source\repos\DCIT318_Assignment_4\DCIT318_Assignment_4\bin\Debug\DCIT318_Assignment_4.exe
+C:\Users\GALLY sismondi\source\repos\DCIT318_Assignment_4\DCIT318_Assignment_4\bin\Debug\DCIT318_Assignment_4.pdb
+C:\Users\GALLY sismondi\source\repos\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\GALLY sismondi\source\repos\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\DCIT318_Assignment_4.Form1.resources
+C:\Users\GALLY sismondi\source\repos\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\DCIT318_Assignment_4.Properties.Resources.resources
+C:\Users\GALLY sismondi\source\repos\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\GALLY sismondi\source\repos\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\GALLY sismondi\source\repos\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\DCIT318_Assignment_4.exe
+C:\Users\GALLY sismondi\source\repos\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\DCIT318_Assignment_4.pdb
+F:\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\bin\Debug\DCIT318_Assignment_4.exe.config
+F:\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\bin\Debug\DCIT318_Assignment_4.exe
+F:\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\bin\Debug\DCIT318_Assignment_4.pdb
+F:\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+F:\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginPage.Form1.resources
+F:\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\DCIT318_Assignment_4.Properties.Resources.resources
+F:\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+F:\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+F:\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\DCIT318_Assignment_4.exe
+F:\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\DCIT318_Assignment_4.pdb
+C:\Users\GALLY sismondi\Desktop\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\GALLY sismondi\Desktop\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginPage.Form1.resources
+C:\Users\GALLY sismondi\Desktop\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\GALLY sismondi\Desktop\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\GALLY sismondi\Desktop\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\GALLY sismondi\Desktop\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\bin\Debug\LoginScreen.exe.config
+C:\Users\GALLY sismondi\Desktop\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\bin\Debug\LoginScreen.exe
+C:\Users\GALLY sismondi\Desktop\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\bin\Debug\LoginScreen.pdb
+C:\Users\GALLY sismondi\Desktop\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.exe
+C:\Users\GALLY sismondi\Desktop\Adam\DCIT318_Assignment_4\DCIT318_Assignment_4\obj\Debug\LoginScreen.pdb
